@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "tusmart-98d17",
+    "project_number": "699642056280",
+    "name": "Tusmart"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699642056280:android:bd01b27e0cfc6d70",
+        "client_id": "android:tusmart.ekaruztech.com.tusmart",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "tusmart.ekaruztech.com.tusmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699642056280-c45686ounimuoq62rqrd6plstm9r6171.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tusmart.ekaruztech.com.tusmart",
+            "certificate_hash": "EEC9A06DEDF298E2E2832498F2B149F0270F4972"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
